@@ -1,8 +1,12 @@
 <div align="center">
 
+**Русский** | [English](README.en.md)
+
+<img src="https://raw.githubusercontent.com/chaki53/fastconnect/main/assets/logo.png" width="110" alt="FastConnect"/>
+
 # 🚀 FastConnect
 
-### Современный VPN-клиент для Android
+### Современный VPN-клиент для Android и Android TV
 
 [![Latest Release](https://img.shields.io/github/v/release/chaki53/fastconnect-releases?style=for-the-badge&color=0A84FF&label=Версия)](https://github.com/chaki53/fastconnect-releases/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/chaki53/fastconnect-releases/total?style=for-the-badge&color=34C759&label=Загрузки)](https://github.com/chaki53/fastconnect-releases/releases)
@@ -10,7 +14,9 @@
 
 **Быстрый · Стабильный · Без лишних настроек**
 
-[📥 Скачать последнюю версию](https://github.com/chaki53/fastconnect-releases/releases/latest) · [📰 История обновлений](https://github.com/chaki53/fastconnect-releases/releases) · [💬 Поддержка](https://t.me/fastconnect_support_bot)
+[📥 Скачать последнюю версию](https://github.com/chaki53/fastconnect-releases/releases/latest) ·
+[📰 История обновлений](https://github.com/chaki53/fastconnect-releases/releases) ·
+[💬 Поддержка](https://t.me/fastconnect_support_bot)
 
 </div>
 
