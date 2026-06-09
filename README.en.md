@@ -122,14 +122,10 @@
 All releases with detailed change descriptions — on the [Releases](https://github.com/chaki53/fastconnect-releases/releases) page.
 
 Recent major updates:
-- **2.11.0** — "More" section: promotions, loyalty, contests, surveys, subscription renewal, card data protection
-- **2.10.x** — Device limit with slot purchases, push notification fixes
+- **3.1.0** — Automatic server switching and a new power button
+- **3.0.0** — Midnight Luxe: complete UI redesign
+- **2.19.0** — Ad & tracker blocking + battery saving
 - **2.10.0** — In-app auto-update
-- **2.9.0** — PIN code and biometric protection
-- **2.8.0** — Wheel of fortune right in the app
-- **2.7.0** — Per-App VPN: exclusions for banking and government apps
-- **2.5.0** — Email registration with referral codes
-- **2.0.0** — Complete UI redesign
 
 ---
 
