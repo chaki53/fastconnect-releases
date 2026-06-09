@@ -16,7 +16,7 @@
 
 [📥 Скачать последнюю версию](https://github.com/chaki53/fastconnect-releases/releases/latest) ·
 [📰 История обновлений](https://github.com/chaki53/fastconnect-releases/releases) ·
-[💬 Поддержка](https://t.me/fastconnect_support_bot)
+[💬 Поддержка](https://t.me/VpnFast_group)
 
 </div>
 
@@ -173,7 +173,7 @@
 
 <div align="center">
 
-**Нужна помощь?** [Telegram-поддержка](https://t.me/fastconnect_support_bot) · [Telegram-канал](https://t.me/fastconnect_app)
+**Нужна помощь?** [Telegram-поддержка](https://t.me/VpnFast_group) · [Telegram-канал](https://t.me/vpnfast_news) · [Telegram-бот](https://t.me/vipnfast_bot?start=github_android)
 
 <sub>© FastConnect · Все права защищены</sub>
 

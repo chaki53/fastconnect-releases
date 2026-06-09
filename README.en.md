@@ -16,7 +16,7 @@
 
 [📥 Download latest version](https://github.com/chaki53/fastconnect-releases/releases/latest) ·
 [📰 Changelog](https://github.com/chaki53/fastconnect-releases/releases) ·
-[💬 Support](https://t.me/fastconnect_support_bot)
+[💬 Support](https://t.me/VpnFast_group)
 
 </div>
 
@@ -173,7 +173,7 @@ Account → "Invite a friend". There are two links: one for the Telegram bot and
 
 <div align="center">
 
-**Need help?** [Telegram support](https://t.me/fastconnect_support_bot) · [Telegram channel](https://t.me/fastconnect_app)
+**Need help?** [Telegram support](https://t.me/VpnFast_group) · [Telegram channel](https://t.me/vpnfast_news) · [Telegram bot](https://t.me/vipnfast_bot?start=github_android)
 
 <sub>© FastConnect · All rights reserved</sub>
 
