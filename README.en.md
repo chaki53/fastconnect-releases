@@ -122,6 +122,7 @@
 All releases with detailed change descriptions — on the [Releases](https://github.com/chaki53/fastconnect-releases/releases) page.
 
 Recent major updates:
+- **3.2.0** — 📺 Android TV: QR pairing (scan with phone — TV signs in itself), Midnight style, server pings
 - **3.1.0** — Automatic server switching and a new power button
 - **3.0.0** — Midnight Luxe: complete UI redesign
 - **2.19.0** — Ad & tracker blocking + battery saving
